@@ -17,6 +17,7 @@
 | 분야 | 사용 기술 |
 |----|----|
 | Front-end | HTML, CSS, JavaScript |
+| TOOL | VS Code |
 
 ---
 
